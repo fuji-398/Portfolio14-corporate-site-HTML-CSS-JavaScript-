@@ -14,4 +14,4 @@ It features a large video background and a modern design.
     <br>
     <br>
 - Reference Site(参考サイト)  
-  - Codejunp https://code-jump.com/blog-menu/
+  - Codejunp https://code-jump.com/corporate3-menu/
